@@ -58,7 +58,7 @@ curl registry.npmjs.org/express | ./JSON.sh | egrep '\["versions","[^"]*"\]'
 
 ## Installation
 
-install via npm, pip, from AUR on archlinux or from overlay ["koo"](https://github.com/poinck/koo) on Gentoo
+install via npm, pip, from AUR on archlinux or from gentoo overlay
 
 * `npm install -g JSON.sh`
 * `pip install git+https://github.com/dominictarr/JSON.sh#egg=JSON.sh`
