@@ -52,12 +52,13 @@ curl registry.npmjs.org/express | ./JSON.sh | egrep '\["versions","[^"]*"\]'
 
 ## Installation
 
-install via npm or from AUR on archlinux
+install via npm, from AUR on archlinux or from overlay ["koo"](https://github.com/poinck/koo) on Gentoo
 
 * `npm install -g JSON.sh`
 * `yaourt -Sy json-sh`
   ([json-sh on aur](https://aur.archlinux.org/packages/json-sh/)
   thanks to [kremlin-](https://github.com/kremlin-))
+* `emerge -av JSON-sh`
 
 ## License
 
