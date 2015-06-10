@@ -65,7 +65,7 @@ install via npm, pip, from AUR on archlinux or from overlay ["koo"](https://gith
 * `yaourt -Sy json-sh`
   ([json-sh on aur](https://aur.archlinux.org/packages/json-sh/)
   thanks to [kremlin-](https://github.com/kremlin-))
-* `emerge -av JSON-sh`
+* `emerge -av JSON-sh` ([overlay "koo"](https://github.com/poinck/koo))
 
 ## License
 
